@@ -1,7 +1,7 @@
 {
   "main.css": "/poketimes/static/css/main.ab6e394a.chunk.css",
-  "main.js": "/poketimes/static/js/main.ae776da8.chunk.js",
-  "main.js.map": "/poketimes/static/js/main.ae776da8.chunk.js.map",
+  "main.js": "/poketimes/static/js/main.361fce27.chunk.js",
+  "main.js.map": "/poketimes/static/js/main.361fce27.chunk.js.map",
   "static/js/1.08f8d782.chunk.js": "/poketimes/static/js/1.08f8d782.chunk.js",
   "static/js/1.08f8d782.chunk.js.map": "/poketimes/static/js/1.08f8d782.chunk.js.map",
   "runtime~main.js": "/poketimes/static/js/runtime~main.7b792e93.js",
@@ -9,6 +9,6 @@
   "static/media/pokeball.png": "/poketimes/static/media/pokeball.f10bf078.png",
   "static/css/main.ab6e394a.chunk.css.map": "/poketimes/static/css/main.ab6e394a.chunk.css.map",
   "index.html": "/poketimes/index.html",
-  "precache-manifest.4cf5e7028c7f651ad10065f9f6164759.js": "/poketimes/precache-manifest.4cf5e7028c7f651ad10065f9f6164759.js",
+  "precache-manifest.f0520276c0601cfbc19ad55357dc6681.js": "/poketimes/precache-manifest.f0520276c0601cfbc19ad55357dc6681.js",
   "service-worker.js": "/poketimes/service-worker.js"
 }
